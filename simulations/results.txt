@@ -1,0 +1,5 @@
+with 10000 sample embeddings and 1000000 pairs of samples to calculate I_{cos}.
+
+uniform		0.0002
+gaussian	0.0003
+anisotrophy	0.9613
